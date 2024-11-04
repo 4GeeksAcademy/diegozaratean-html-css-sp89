@@ -3,6 +3,23 @@ body{
 }
 
 div {
-    background-color: rgb(201, 255, 243);
-    border: 1px solid #f0f;
+    /* background-color: rgb(201, 255, 243);
+    border: 1px solid #f0f; */
+}
+
+
+.btn-violet {
+    background: violet;
+}
+
+.btn-violet:hover {
+    background: purple;
+}
+
+.btn-danger {
+    background: #13f033;
+}
+
+.violet-buton{
+    background-color: antiquewhite;
 }
